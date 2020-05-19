@@ -1,4 +1,6 @@
 # cv-portfolio
+This is a small portfolio i made with Vue.js so i can showcase some of my skills.
+
 
 ## Project setup
 ```
@@ -15,10 +17,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
